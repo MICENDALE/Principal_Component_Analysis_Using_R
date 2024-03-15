@@ -18,7 +18,7 @@ library(haven)
 fptest <- read_dta(file = "ETFP81FLSR.DTA")
 
 ```
-Installing and calling all the neccessary packages. 
+Installing and calling all the neccessary packages and libraries. 
 ``` R
 library(summarytools)
 library(ggplot2)
